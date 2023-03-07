@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.svg
+*.png
+*.csv
+*.pickle
+*.mat
+*.zip
+*.tar
+*.gz
+*.tar.gz
+*.DS_Store
